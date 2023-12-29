@@ -1,0 +1,15 @@
+F:\Unity\qqd\m\m\bin\Debug\net6.0\m.exe
+F:\Unity\qqd\m\m\bin\Debug\net6.0\m.deps.json
+F:\Unity\qqd\m\m\bin\Debug\net6.0\m.runtimeconfig.json
+F:\Unity\qqd\m\m\bin\Debug\net6.0\m.dll
+F:\Unity\qqd\m\m\bin\Debug\net6.0\m.pdb
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.csproj.AssemblyReference.cache
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.AssemblyInfoInputs.cache
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.AssemblyInfo.cs
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.csproj.CoreCompileInputs.cache
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.dll
+F:\Unity\qqd\m\m\obj\Debug\net6.0\refint\m.dll
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.pdb
+F:\Unity\qqd\m\m\obj\Debug\net6.0\m.genruntimeconfig.cache
+F:\Unity\qqd\m\m\obj\Debug\net6.0\ref\m.dll

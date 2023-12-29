@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "99u25Xw5AOz9rBYq/06VGbdE+Ohl4aFgEEwQiLL3fm0vwh3qYidxod73b2T/oXh/Dq9HM5fIuepOjFB4lGcnog==",
+  "success": true,
+  "projectFilePath": "F:\\Unity\\qqd\\m\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\32feet.net\\3.5.0\\32feet.net.3.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0”还原包“32feet.NET 3.5.0”。此包可能与项目不完全兼容。",
+      "libraryId": "32feet.NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
