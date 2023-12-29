@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "99u25Xw5AOz9rBYq/06VGbdE+Ohl4aFgEEwQiLL3fm0vwh3qYidxod73b2T/oXh/Dq9HM5fIuepOjFB4lGcnog==",
+  "dgSpecHash": "Z7dAAwIkhq8vJm31k0ZRd6OlkOH0peDBvCWgkISr23sOeayUvpfAduNB6RzhNg2f0SjfJlhRhAuXNEIzsg1Ldw==",
   "success": true,
-  "projectFilePath": "F:\\Unity\\qqd\\m\\Test\\Test.csproj",
+  "projectFilePath": "E:\\0.Git\\Suan\\m\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\32feet.net\\3.5.0\\32feet.net.3.5.0.nupkg.sha512"
   ],

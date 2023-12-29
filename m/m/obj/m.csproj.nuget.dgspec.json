@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Unity\\qqd\\m\\m\\m.csproj": {}
+    "E:\\0.Git\\Suan\\m\\m\\m.csproj": {}
   },
   "projects": {
-    "F:\\Unity\\qqd\\m\\m\\m.csproj": {
+    "E:\\0.Git\\Suan\\m\\m\\m.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Unity\\qqd\\m\\m\\m.csproj",
+        "projectUniqueName": "E:\\0.Git\\Suan\\m\\m\\m.csproj",
         "projectName": "m",
-        "projectPath": "F:\\Unity\\qqd\\m\\m\\m.csproj",
+        "projectPath": "E:\\0.Git\\Suan\\m\\m\\m.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Unity\\qqd\\m\\m\\obj\\",
+        "outputPath": "E:\\0.Git\\Suan\\m\\m\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
